@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# Environment Variables
+.env
+
+# Build output
+dist/
+build/
+
+# Optional npm cache directory
+.npm/
+
+# IDE or Editor specific
+.vscode/
+.idea/
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.tmp
